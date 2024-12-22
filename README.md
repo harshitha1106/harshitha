@@ -1,2 +1,2 @@
-# rock-paper-scissor
+# harshitha-1
 This is my first git repository.
